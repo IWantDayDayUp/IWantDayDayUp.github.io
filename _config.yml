@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TayLock's Blog                          # the main title
+title: TayLock                          # the main title
 
 tagline: 东隅已逝, 桑榆非晚   # it will display as the sub-title
 
@@ -83,7 +83,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/avatar.jpg
+avatar: assets/img/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
