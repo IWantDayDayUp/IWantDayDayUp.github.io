@@ -2,8 +2,8 @@
 layout: post
 title: FenwickTree
 date: 2022-06-27 15:37 +0800
-categories: [Data Structure, Template]
-tags: [data dtructure, template, fenwick tree]
+categories: [Template, Fenwick Tree]
+tags: [data dtructure, fenwick tree]
 # author: TayLock
 render_with_liquid: false
 math: true

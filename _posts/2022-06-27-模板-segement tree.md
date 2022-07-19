@@ -2,7 +2,7 @@
 layout: post
 title: Segement Tree
 date: 2022-06-27 15:37 +0800
-categories: [Data Structure, Template]
+categories: [Template, Segement Tree]
 tags: [data structure, segment tree, old driver tree]
 # author: 
 math: true
