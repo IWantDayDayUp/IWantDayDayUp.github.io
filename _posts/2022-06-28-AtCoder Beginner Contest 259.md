@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Select Edegs - Tree dp
+title: AtCoder Beginner Contest 259 (F)Tree DP
 date: 2022-06-28 15:37 +0800
-categories: [codeforces, Tree dp]
-tags: [tree dp]
+categories: [Classical Algorithm, Tree dp]
+tags: [tree dp, AtCoder]
 # author: TayLock
 render_with_liquid: false
 math: true

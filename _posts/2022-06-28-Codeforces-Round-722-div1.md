@@ -1,15 +1,17 @@
 ---
 layout: post
-title: 树上dp
+title: Codeforces Round 722 (Div. 1) (A)Tree DP
 date: 2022-06-28 15:37 +0800
-categories: [CodeForces, Tree dp]
-tags: [tree dp]
-# author: TayLock
+categories: [Classical Algorithm, Tree dp]
+tags: [Codeforces, tree dp]
 render_with_liquid: false
 math: true
 ---
 
+
 ## 1. 题目
+
+<https://codeforces.com/contest/1528/problem/A>
 
 有一棵包含 $n$ 个节点的树, 每个节点 $v$ 的值存在一个取值范围: $[l_v, r_v]$
 
