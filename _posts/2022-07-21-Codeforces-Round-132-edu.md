@@ -8,6 +8,88 @@ render_with_liquid: false
 math: true
 ---
 
+## C
+
+### 1. Problem Statement
+
+这里原本有一个 `合法` 的括号序列, 现在将这个合法的括号序列中的一部分字符串替换为 `?`
+
+你可以将 `?` 替换为 `(` 或者 `)` 问替换出合法括号序列的方式是否唯一
+
+### 2. 分析
+
+如果某个给定的字符串为 `(())???` 那么对于第一个问号而言, 我们是可以确定这个问号是什么的(一定是左括号)
+
+那么对于这样的字符串 `???)))` 左边的三个问号一定是 `(`
+
+我们将 `(` 看成加一,  `)` 看成减一用 `cnt` 记录, 用 `ques` 来统计问号的数量
+
+> 这里有个结论, 如果括号序列合法的话, 最后 `cnt` 一定等于0, 并且中途没有小于0的时候
+{: .prompt-info }
+
+这样我们的 `cnt` 就表示为前面还没匹配上的左括号的数量, 如果是负数, 就是未匹配的右括号的数量
+
+`ques` 为当前还没有使用的问号数量
+
+如果在某一时刻我们有 `cnt=-4, ques=5`, 这时候字符串形如 `??))??))?`
+
+我们可以确定前4个括号一定为 `(` 用来和 `)` 匹配, 这个时候,  `cnt=0` , 所以第5个问号不能为 `)` (如果为 `)` 就不合法), 第5个问号只能是 `(`
+
+当最后 `cnt==ques` , 则表示, 剩下的问号只能去填补 `cnt` , 且我们之前的操作都是“一定为”, 所以答案唯一
+
+### 3. code
+
+```c++
+#include <bits/stdc++.h>
+
+using namespace std;
+
+void slove() {
+    string s;
+    cin >> s;
+
+    int cnt = 0, ques = 0;
+    for (auto & c : s)
+    {
+        if (c == '(')
+        {
+            cnt += 1;
+        } else if (c == ')')
+        {
+            cnt -= 1;
+        } else {
+            ques += 1;
+        }
+
+        if (cnt + ques == 1)
+        {
+            cnt = 1;
+            ques = 0;
+        }
+    }
+
+    if (abs(cnt) == ques)
+    {
+        cout << "YES" << endl;
+    } else {
+        cout << "NO" << endl;
+    }
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
+    int t;
+    cin >> t;
+    while (t--) {
+        slove();
+    }
+
+    return 0;
+}
+```
+
 ## D. Rorororobot
 
 <https://codeforces.com/contest/1709/problem/D>
