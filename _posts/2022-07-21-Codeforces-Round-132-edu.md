@@ -8,7 +8,9 @@ render_with_liquid: false
 math: true
 ---
 
-## C
+## C. Recover an RBS
+
+<https://codeforces.com/contest/1709/problem/C>
 
 ### 1. Problem Statement
 
