@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Codeforces Round 132 (edu) (D) 线段树
+title: Codeforces Round 132 (edu) (C) 括号 (D) 线段树
 date: 2022-07-21 15:37 +0800
 categories: [Classical Algorithm, Segement Tree]
-tags: [Codeforces, greedy, segement tree]
+tags: [Codeforces, greedy, segement tree, 括号]
 render_with_liquid: false
 math: true
 ---
@@ -110,7 +110,8 @@ int main() {
 
 首先, 机器人需要停在目的地, 所以: 横坐标需要整除 $k$, 纵坐标也需要整除 $k$
 
-![Desktop View](../assets/post_img/cf%20edu%20132/1.jpg)
+![Desktop View](../../assets/post_img/cf%20edu%20132/1.jpg){: width="700" height="400" }
+_路径示意图_
 
 直觉上, 机器人最多行动 $3$ 次(如果可以), 即: `先向上, 再向左(或右), 再向下`
 
