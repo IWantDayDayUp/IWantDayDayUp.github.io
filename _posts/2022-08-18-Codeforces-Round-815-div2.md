@@ -3,7 +3,7 @@ layout: post
 title: Codeforces Round 815 (Div. 2) D1(DP) D2(字典树+DP)
 date: 2022-08-18 15:37 +0800
 categories: [Classical Algorithm, DP]
-tags: [Codeforces, DP, 字典树]
+tags: [Codeforces, dp, 字典树]
 render_with_liquid: false
 math: true
 ---
