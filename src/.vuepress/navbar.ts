@@ -109,6 +109,24 @@ export default navbar([
           { text: "abc-260", icon: "pen-to-square", link: "abc-260" },
         ],
       },
+      {
+        text: "Topic",
+        icon: "pen-to-square",
+        prefix: "Topic/",
+        children: [
+          { text: "abc-259", icon: "pen-to-square", link: "abc-259" },
+          { text: "abc-260", icon: "pen-to-square", link: "abc-260" },
+        ],
+      },
+      {
+        text: "Template",
+        icon: "pen-to-square",
+        prefix: "Template/",
+        children: [
+          { text: "abc-259", icon: "pen-to-square", link: "abc-259" },
+          { text: "abc-260", icon: "pen-to-square", link: "abc-260" },
+        ],
+      },
     ],
   },
 
