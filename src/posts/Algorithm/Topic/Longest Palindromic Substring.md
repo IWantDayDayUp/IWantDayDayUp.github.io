@@ -1,3 +1,30 @@
+---
+# Author
+author:
+name: TayLock
+url: https://iwantdaydayup.github.io
+gmail: shaofeng.wang@ucdconnect.ie
+
+# Date
+date: 2025-04-02
+
+# Original
+# isOriginal: true
+
+# Category
+category:
+  - Algorithm
+  - Topic
+
+# Tag
+tag:
+  - LPS
+  - DP
+  - Manacher
+
+icon: pen-to-square
+---
+
 # Longest Palindromic Substring(LPS)
 
 ## Info

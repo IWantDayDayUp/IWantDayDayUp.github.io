@@ -1,3 +1,28 @@
+---
+# Author
+author:
+name: TayLock
+url: https://iwantdaydayup.github.io
+gmail: shaofeng.wang@ucdconnect.ie
+
+# Date
+date: 2025-04-02
+
+# Original
+# isOriginal: true
+
+# Category
+category:
+  - Algorithm
+  - Template
+
+# Tag
+tag:
+  - Manacher
+
+icon: pen-to-square
+---
+
 # Manacher
 
 ## 📌 Description
@@ -14,7 +39,7 @@ Manacher's algorithm finds all palindromic substrings in linear time. It’s esp
 
 ---
 
-## 📘 C++ Code Template - Annotated Version (for review & learning)
+## 📘 Annotated C++ Template (for review & learning)
 
 ```cpp
 // Manacher's Algorithm: Annotated Version
@@ -122,7 +147,7 @@ Use a hash set with all `(start, length)` pairs mapped back to `s`
 
 ---
 
-## ⚡ C++ Code Template - Contest Version (for contest use)
+## ⚡ Contest C++ Template (for contest use)
 
 ```cpp
 vector<int> manacher(string s)
