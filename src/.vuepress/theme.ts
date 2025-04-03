@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://iwantdaydayup.github.io/",
 
   author: {
     name: "TayLock",
@@ -16,7 +16,7 @@ export default hopeTheme({
   // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
   logo: "./public/icon.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "IWantDayDayUp/IWantDayDayUp.github.io",
 
   docsDir: "src",
 
@@ -60,7 +60,7 @@ export default hopeTheme({
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
-      GitHub: "https://example.com",
+      GitHub: "https://github.com/IWantDayDayUp",
       // Gitlab: "https://example.com",
       Gmail: "mailto:info@example.com",
       // Instagram: "https://example.com",
@@ -236,4 +236,7 @@ export default hopeTheme({
     //   },
     // },
   },
+
+  //
+  // pageInfo: ["Date", "Category", "Tag"], // 不写 icons
 });
