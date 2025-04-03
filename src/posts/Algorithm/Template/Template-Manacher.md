@@ -3,7 +3,6 @@
 author:
 name: TayLock
 url: https://iwantdaydayup.github.io
-gmail: shaofeng.wang@ucdconnect.ie
 
 # Date
 date: 2025-04-02
@@ -19,11 +18,9 @@ category:
 # Tag
 tag:
   - Manacher
-
-icon: pen-to-square
 ---
 
-# Manacher
+# 🧩 Manacher
 
 ## 📌 Description
 
