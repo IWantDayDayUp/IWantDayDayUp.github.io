@@ -3,7 +3,6 @@
 author:
 name: TayLock
 url: https://iwantdaydayup.github.io
-gmail: shaofeng.wang@ucdconnect.ie
 
 # Date
 date: 2025-04-02
@@ -23,11 +22,9 @@ category:
 star: ture
 
 sticky: true
-
-icon: pen-to-square
 ---
 
-# 🧠 Algorithm Topic Index
+# 🧩 Algorithm Topic Index
 
 This page collects links to detailed notes on all the major problem types encountered in contests, especially AtCoder. Each link leads to a page covering the topic's theory, patterns, solution techniques, and curated practice problems.
 

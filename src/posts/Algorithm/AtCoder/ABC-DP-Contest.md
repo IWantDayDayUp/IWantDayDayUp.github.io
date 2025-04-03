@@ -3,7 +3,6 @@
 author:
 name: TayLock
 url: https://iwantdaydayup.github.io
-gmail: shaofeng.wang@ucdconnect.ie
 
 # Date
 date: 2022-08-12
@@ -21,11 +20,9 @@ category:
 tag:
   - DP
   - Tree DP
-
-icon: pen-to-square
 ---
 
-# AtCoder Educational DP Contest - TODO
+# 🧩 AtCoder Educational DP Contest - TODO
 
 ## # Info & Summary
 

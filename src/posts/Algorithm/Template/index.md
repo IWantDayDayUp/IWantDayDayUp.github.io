@@ -3,7 +3,6 @@
 author:
 name: TayLock
 url: https://iwantdaydayup.github.io
-gmail: shaofeng.wang@ucdconnect.ie
 
 # Date
 date: 2025-04-02
@@ -23,8 +22,6 @@ category:
 star: ture
 
 sticky: true
-
-icon: pen-to-square
 ---
 
 # 🧩 Algorithm Template Index
