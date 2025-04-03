@@ -25,6 +25,13 @@ export default hopeTheme({
 
   // sidebar
   sidebar,
+  // sidebarSorter: ["readme", "order", "title", "filename"],  // default
+  sidebarSorter: [
+    "readme", // README 优先
+    "date-desc", // 日期新的在前
+    "title", // 标题字母序
+    "filename",
+  ],
 
   footer: "Default footer",
 
