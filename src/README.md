@@ -5,7 +5,7 @@ icon: home
 title: Home
 heroImage: /logo.svg
 heroText: TayLock
-tagline: On the way up
+tagline: The root of all problems -> I'm not strong enough
 heroFullScreen: true
 projects:
   - icon: project
