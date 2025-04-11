@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: /logo.svg
+heroImage: /icon.png
 heroText: TayLock
 tagline: The root of all problems -> I'm not strong enough
 heroFullScreen: true
