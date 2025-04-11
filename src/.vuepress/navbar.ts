@@ -72,6 +72,11 @@ export default navbar([
         //   { text: "Template Index", icon: "pen-to-square", link: "index" },
         // ],
       },
+      {
+        text: "👉 Unsolved Algorithm Problems",
+        // icon: "pen-to-square",
+        link: "unsolved-problems",
+      },
     ],
   },
 
@@ -86,10 +91,10 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "apple/",
         children: [
-        //   { text: "Apple1", icon: "pen-to-square", link: "1" },
-        //   { text: "Apple2", icon: "pen-to-square", link: "2" },
-        //   "3",
-        //   "4",
+          //   { text: "Apple1", icon: "pen-to-square", link: "1" },
+          //   { text: "Apple2", icon: "pen-to-square", link: "2" },
+          //   "3",
+          //   "4",
         ],
       },
     ],
