@@ -60,7 +60,8 @@ Each topic note contains:
 
 ## 🌲 Tree / Graph Types
 
-- 📌 [TODO - Bipartite Coloring](./bipartite.md)
+- 🎯 [0-1 BFS](./0-1%20BFS.md)
+- 📌 [Bipartite Graph](./Bipartite%20graph.md)
 - 🪜 [TODO - Tree Diameter / Center](./tree-diameter.md)
 - 🔗 [TODO - LCA & Binary Lifting](./lca.md)
 - 🧠 [TODO - Odd Cycle Detection](./odd-cycle.md)
