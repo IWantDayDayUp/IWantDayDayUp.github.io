@@ -65,7 +65,7 @@ Each page includes:
 ## 🌳 Graph Algorithms
 
 - 🚶 [TODO - DFS / BFS](./dfs-bfs.md)
-- 📦 [TODO - Union Find / DSU](./dsu.md)
+- 📦 [Union Find / DSU](./DSU.md)
 - 🛣 [TODO - Dijkstra / SPFA](./shortest-path.md)
 - 🧭 [TODO - Topological Sort](./toposort.md)
 - 🧿 [TODO - Lowest Common Ancestor (LCA)](./lca.md)
