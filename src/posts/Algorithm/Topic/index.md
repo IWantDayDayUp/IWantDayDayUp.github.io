@@ -62,7 +62,7 @@ Each topic note contains:
 
 - 🎯 [0-1 BFS](./0-1%20BFS.md)
 - 📌 [Bipartite Graph](./Bipartite%20graph.md)
-- 🪜 [TODO - Tree Diameter / Center](./tree-diameter.md)
+- 🪜 [TODO - Tree](./Tree.md)
 - 🔗 [TODO - LCA & Binary Lifting](./lca.md)
 - 🧠 [TODO - Odd Cycle Detection](./odd-cycle.md)
 
