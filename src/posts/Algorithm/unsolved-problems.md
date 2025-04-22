@@ -25,6 +25,8 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-396 F](https://atcoder.jp/contests/abc396/tasks/abc396_f)   |                  Fenwick                  | Pending |
+|   [ABC-396 G](https://atcoder.jp/contests/abc396/tasks/abc396_g)   |        Meet-in-the-Middle/Bitmask         | Pending |
 |   [ABC-397 F](https://atcoder.jp/contests/abc397/tasks/abc397_f)   |           DP/Lazy Segment Tree            | Pending |
 |   [ABC-397 G](https://atcoder.jp/contests/abc397/tasks/abc397_g)   |          Binary Search/MAx Flow           | Pending |
 |   [ABC-400 G](https://atcoder.jp/contests/abc400/tasks/abc400_g)   |                    DP                     | Pending |
