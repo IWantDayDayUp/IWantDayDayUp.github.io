@@ -217,9 +217,11 @@ struct DSU
 
 ## 📝 Recommended Practice
 
-| `Contest ID` | `Problem ID` |    `Title`    | `Difficulty` |                          `Link`                           |
-| :----------: | :----------: | :-----------: | :----------: | :-------------------------------------------------------: |
-|    ABC401    |     `E`      | Reachable Set |      5       | [Link](https://atcoder.jp/contests/abc401/tasks/abc401_e) |
+| `Contest ID` | `Problem ID` |    `Title`     | `Difficulty` |                          `Link`                           |
+| :----------: | :----------: | :------------: | :----------: | :-------------------------------------------------------: |
+|    ABC399    |     `C`      | Make it Forest |      1       | [Link](https://atcoder.jp/contests/abc399/tasks/abc399_c) |
+|    ABC399    |     `E`      |    Replace     |      5       | [Link](https://atcoder.jp/contests/abc399/tasks/abc399_e) |
+|    ABC401    |     `E`      | Reachable Set  |      5       | [Link](https://atcoder.jp/contests/abc401/tasks/abc401_e) |
 
 ---
 

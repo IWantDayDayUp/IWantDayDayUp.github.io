@@ -18,13 +18,16 @@ category:
 # Tag
 tag:
   - BFS
+  - DFS
+  - Tree DP
 ---
 
 # 🧩 Tree
 
-|                  Problem                   | Data Structure / Algo | 🔥 Key Insight / Mark |
-| :----------------------------------------: | :-------------------: | :-------------------: |
-| [Tree Diameter](#🌳-tree-diameter-via-bfs) |          BFS          |        ⭐🛠️🔥         |
+|                   Problem                    | Data Structure / Algo | 🔥 Key Insight / Mark |
+| :------------------------------------------: | :-------------------: | :-------------------: |
+|  [Tree Diameter](#🌳-tree-diameter-via-bfs)  |          BFS          |        ⭐🛠️🔥         |
+| [Subtree Size](#🧩-subtree-size-calculation) |          DFS          |        ⭐🛠️🔥         |
 
 <!-- |       [E](#E)       |          DSU          |        ⭐🔥🛠️         | -->
 
@@ -205,5 +208,140 @@ auto [dia, f] = solve();
 | `Contest ID` | `Problem ID` |    `Title`     | `Difficulty` |                          `Link`                           |
 | :----------: | :----------: | :------------: | :----------: | :-------------------------------------------------------: |
 |    ABC401    |     `F`      | Add One Edge 3 |      5       | [Link](https://atcoder.jp/contests/abc401/tasks/abc401_f) |
+
+---
+
+## 🧩 Subtree Size Calculation
+
+### 📌 Description
+
+The task of subtree size calculation involves determining the number of nodes in the subtree rooted at each node in a tree. This is typically done using a `Depth First Search (DFS)` traversal, where we **recursively calculate the size of each subtree by visiting its children and accumulating their sizes**
+
+Common Use Cases:
+
+- **Tree DP**: Many tree-based dynamic programming problems require knowing the size of subtrees
+- **Tree Queries**: Subtree size calculation is useful in problems like subtree sum, subtree product, or finding the number of nodes in a subtree
+- **Graph Theory**: Often used to solve problems like finding the centroid of a tree or partitioning trees into subtrees
+
+### 💡 Key Idea
+
+- **DFS Traversal**: Perform a DFS on the tree to calculate the size of each subtree
+- **Subtree Size Definition**: For a node $u$, the size of the subtree rooted at $u$ is the number of nodes in the tree including $u$ and all of its descendants
+- **Bottom-Up Calculation**: Start with leaf nodes (whose subtree size is $1$) and propagate the size calculation upwards towards the root
+
+### 🧪 C++ Code Example
+
+::: details Annotated C++ Template
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
+    int N, M;
+    cin >> N >> M;
+
+    vector<vector<int>> adj(N);
+    for (int i = 0; i < M; i++) {
+        int u, v;
+        cin >> u >> v;
+        u--;
+        v--;
+
+        adj[u].push_back(v);
+        adj[v].push_back(u);
+    }
+
+    // Initialize subtree size as 1 for each node
+    vector<int> size(N, 1);
+
+    auto dfs = [&](auto &&self, int u, int p = -1) -> int {
+        // Start with size 1 for the current node (itself)
+        int sum = 1;
+
+        // Visit all children of node 'u'
+        for (int v : adj[u]) {
+            // Skip the parent node
+            if (v != p) {
+                // Recursively calculate the size of the subtree rooted at 'v'
+                sum += self(self, v, u);
+            }
+        }
+        // Store the size of the subtree rooted at 'u'
+        size[u] = sum;
+
+        // Return the total size of the subtree rooted at 'u'
+        return sum;
+    };
+
+    // Start the DFS from node 0 (root node)
+    dfs(dfs, 0);
+
+    for (int i = 0; i < N; i++) {
+        cout << size[i] << "\n"[i = N - 1];
+    }
+
+    return 0;
+}
+```
+
+:::
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
+    int N, M;
+    cin >> N >> M;
+
+    vector<vector<int>> adj(N);
+    for (int i = 0; i < M; i++) {
+        int u, v;
+        cin >> u >> v;
+        u--;
+        v--;
+
+        adj[u].push_back(v);
+        adj[v].push_back(u);
+    }
+
+    vector<int> size(N, 1);
+
+    auto dfs = [&](auto &&self, int u, int p = -1) -> int {
+        int sum = 1;
+        for (int v : adj[u]) {
+            if (v != p) {
+                sum += self(self, v, u);
+            }
+        }
+        size[u] = sum;
+
+        return sum;
+    };
+
+    dfs(dfs, 0);
+
+    for (int i = 0; i < N; i++) {
+        cout << size[i] << "\n"[i = N - 1];
+    }
+
+    return 0;
+}
+```
+
+### 📝 Recommended Practice
+
+| `Contest ID` | `Problem ID` |           `Title`            | `Difficulty` |                          `Link`                           |
+| :----------: | :----------: | :--------------------------: | :----------: | :-------------------------------------------------------: |
+|    ABC397    |     `E`      | Path Decomposition of a Tree |      5       | [Link](https://atcoder.jp/contests/abc397/tasks/abc397_e) |
 
 ---
