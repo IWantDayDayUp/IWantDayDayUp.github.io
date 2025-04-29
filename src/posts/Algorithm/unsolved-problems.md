@@ -25,6 +25,8 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-394 G](https://atcoder.jp/contests/abc394/tasks/abc394_g)   |                    DSU                    | Pending |
+|   [ABC-395 G](https://atcoder.jp/contests/abc395/tasks/abc395_g)   |                    DP                     | Pending |
 |   [ABC-396 F](https://atcoder.jp/contests/abc396/tasks/abc396_f)   |                  Fenwick                  | Pending |
 |   [ABC-396 G](https://atcoder.jp/contests/abc396/tasks/abc396_g)   |        Meet-in-the-Middle/Bitmask         | Pending |
 |   [ABC-397 F](https://atcoder.jp/contests/abc397/tasks/abc397_f)   |           DP/Lazy Segment Tree            | Pending |
