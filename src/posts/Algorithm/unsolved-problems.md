@@ -25,6 +25,7 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-392 G](https://atcoder.jp/contests/abc392/tasks/abc392_g)   |             Convolution/Math              | Pending |
 |   [ABC-393 G](https://atcoder.jp/contests/abc393/tasks/abc393_g)   |            Dual Linear Program            | Pending |
 |   [ABC-394 G](https://atcoder.jp/contests/abc394/tasks/abc394_g)   |                    DSU                    | Pending |
 |   [ABC-395 G](https://atcoder.jp/contests/abc395/tasks/abc395_g)   |                    DP                     | Pending |
