@@ -25,6 +25,8 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-389 F](https://atcoder.jp/contests/abc389/tasks/abc389_f)   |           DP/Lazy Segment Tree            | Pending |
+|   [ABC-389 G](https://atcoder.jp/contests/abc389/tasks/abc389_g)   |                    DP                     | Pending |
 |   [ABC-390 F](https://atcoder.jp/contests/abc390/tasks/abc390_f)   |                   Math                    | Pending |
 |   [ABC-390 G](https://atcoder.jp/contests/abc390/tasks/abc390_g)   |                   Math                    | Pending |
 |   [ABC-391 G](https://atcoder.jp/contests/abc391/tasks/abc391_g)   |                    DP                     | Pending |
