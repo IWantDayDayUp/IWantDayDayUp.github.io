@@ -25,6 +25,8 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-386 F](https://atcoder.jp/contests/abc386/tasks/abc386_f)   |                    LCP                    | Pending |
+|   [ABC-386 G](https://atcoder.jp/contests/abc386/tasks/abc386_g)   |                  Unknown                  | Pending |
 |   [ABC-387 E](https://atcoder.jp/contests/abc387/tasks/abc387_e)   |             Math/Constructive             | Pending |
 |   [ABC-387 F](https://atcoder.jp/contests/abc387/tasks/abc387_f)   |                    DP                     | Pending |
 |   [ABC-387 G](https://atcoder.jp/contests/abc387/tasks/abc387_g)   |                    FPS                    | Pending |
