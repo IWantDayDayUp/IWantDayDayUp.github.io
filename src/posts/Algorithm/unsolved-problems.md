@@ -46,6 +46,8 @@ article: false
 |   [ABC-403 E](https://atcoder.jp/contests/abc403/tasks/abc403_e)   |                   Trie                    | Pending |
 |   [ABC-403 F](https://atcoder.jp/contests/abc403/tasks/abc403_f)   |                 DP/String                 | Pending |
 |   [ABC-403 G](https://atcoder.jp/contests/abc403/tasks/abc403_g)   |           Dynamic Degment Tree            | Pending |
+|   [ABC-404 F](https://atcoder.jp/contests/abc404/tasks/abc404_f)   |                    DP                     | Pending |
+|   [ABC-404 G](https://atcoder.jp/contests/abc404/tasks/abc404_g)   |            Linear Programming             | Pending |
 | [CF 1017 (Div.4) F](https://codeforces.com/contest/2094/problem/F) |               Constructive                | Pending |
 | [CF 1017 (Div.4) H](https://codeforces.com/contest/2094/problem/H) |     Number theory/Math/Binary search      | Pending |
 
