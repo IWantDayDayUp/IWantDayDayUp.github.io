@@ -25,8 +25,11 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-387 E](https://atcoder.jp/contests/abc387/tasks/abc387_e)   |             Math/Constructive             | Pending |
+|   [ABC-387 F](https://atcoder.jp/contests/abc387/tasks/abc387_f)   |                    DP                     | Pending |
+|   [ABC-387 G](https://atcoder.jp/contests/abc387/tasks/abc387_g)   |                    FPS                    | Pending |
 |   [ABC-388 F](https://atcoder.jp/contests/abc388/tasks/abc388_f)   |                  Matrix                   | Pending |
-|   [ABC-388 G](https://atcoder.jp/contests/abc388/tasks/abc388_g)   |           Range Minimum Query (RMQ)            | Pending |
+|   [ABC-388 G](https://atcoder.jp/contests/abc388/tasks/abc388_g)   |         Range Minimum Query (RMQ)         | Pending |
 |   [ABC-389 F](https://atcoder.jp/contests/abc389/tasks/abc389_f)   |           DP/Lazy Segment Tree            | Pending |
 |   [ABC-389 G](https://atcoder.jp/contests/abc389/tasks/abc389_g)   |                    DP                     | Pending |
 |   [ABC-390 F](https://atcoder.jp/contests/abc390/tasks/abc390_f)   |                   Math                    | Pending |
