@@ -25,6 +25,8 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-384 F](https://atcoder.jp/contests/abc384/tasks/abc384_f)   |                   Math                    | Pending |
+|   [ABC-384 G](https://atcoder.jp/contests/abc384/tasks/abc384_g)   |              Mo’s Algorithm               | Pending |
 |   [ABC-385 F](https://atcoder.jp/contests/abc385/tasks/abc385_f)   |                   Math                    | Pending |
 |   [ABC-385 G](https://atcoder.jp/contests/abc385/tasks/abc385_g)   |               Insertion DP                | Pending |
 |   [ABC-386 F](https://atcoder.jp/contests/abc386/tasks/abc386_f)   |                    LCP                    | Pending |
