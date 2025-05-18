@@ -25,6 +25,9 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-383 E](https://atcoder.jp/contests/abc383/tasks/abc383_e)   |                    DSU                    | Pending |
+|   [ABC-383 F](https://atcoder.jp/contests/abc383/tasks/abc383_f)   |                    DP                     | Pending |
+|   [ABC-383 G](https://atcoder.jp/contests/abc383/tasks/abc383_g)   |          Divide and Conquer & DP          | Pending |
 |   [ABC-384 F](https://atcoder.jp/contests/abc384/tasks/abc384_f)   |                   Math                    | Pending |
 |   [ABC-384 G](https://atcoder.jp/contests/abc384/tasks/abc384_g)   |              Mo’s Algorithm               | Pending |
 |   [ABC-385 F](https://atcoder.jp/contests/abc385/tasks/abc385_f)   |                   Math                    | Pending |
@@ -57,6 +60,8 @@ article: false
 |   [ABC-403 G](https://atcoder.jp/contests/abc403/tasks/abc403_g)   |           Dynamic Degment Tree            | Pending |
 |   [ABC-404 F](https://atcoder.jp/contests/abc404/tasks/abc404_f)   |                    DP                     | Pending |
 |   [ABC-404 G](https://atcoder.jp/contests/abc404/tasks/abc404_g)   |            Linear Programming             | Pending |
+|   [ABC-405 F](https://atcoder.jp/contests/abc405/tasks/abc405_f)   |          Lowest Common Ancestor           | Pending |
+|   [ABC-405 G](https://atcoder.jp/contests/abc405/tasks/abc405_g)   |       Mo’s algorithm / Segment Tree       | Pending |
 |   [ABC-406 E](https://atcoder.jp/contests/abc406/tasks/abc406_e)   |                 Digit DP                  | Pending |
 |   [ABC-406 F](https://atcoder.jp/contests/abc406/tasks/abc406_f)   |            DFS & Fenwick Tree             | Pending |
 |   [ABC-406 G](https://atcoder.jp/contests/abc406/tasks/abc406_g)   |              DP/Fenwick Tree              | Pending |
