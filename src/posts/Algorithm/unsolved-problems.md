@@ -25,6 +25,8 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-382 F](https://atcoder.jp/contests/abc382/tasks/abc382_f)   |             Lazy Segment Tree             | Pending |
+|   [ABC-382 G](https://atcoder.jp/contests/abc382/tasks/abc382_g)   |                                           | Pending |
 |   [ABC-383 E](https://atcoder.jp/contests/abc383/tasks/abc383_e)   |                    DSU                    | Pending |
 |   [ABC-383 F](https://atcoder.jp/contests/abc383/tasks/abc383_f)   |                    DP                     | Pending |
 |   [ABC-383 G](https://atcoder.jp/contests/abc383/tasks/abc383_g)   |          Divide and Conquer & DP          | Pending |
