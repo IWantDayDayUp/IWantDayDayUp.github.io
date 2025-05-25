@@ -25,6 +25,8 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-381 F](https://atcoder.jp/contests/abc381/tasks/abc381_f)   |                Bitmask DP                 | Pending |
+|   [ABC-381 G](https://atcoder.jp/contests/abc381/tasks/abc381_g)   |                   Math                    | Pending |
 |   [ABC-382 F](https://atcoder.jp/contests/abc382/tasks/abc382_f)   |             Lazy Segment Tree             | Pending |
 |   [ABC-382 G](https://atcoder.jp/contests/abc382/tasks/abc382_g)   |                                           | Pending |
 |   [ABC-383 E](https://atcoder.jp/contests/abc383/tasks/abc383_e)   |                    DSU                    | Pending |
