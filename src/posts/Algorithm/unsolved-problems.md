@@ -69,6 +69,9 @@ article: false
 |   [ABC-406 E](https://atcoder.jp/contests/abc406/tasks/abc406_e)   |                 Digit DP                  | Pending |
 |   [ABC-406 F](https://atcoder.jp/contests/abc406/tasks/abc406_f)   |            DFS & Fenwick Tree             | Pending |
 |   [ABC-406 G](https://atcoder.jp/contests/abc406/tasks/abc406_g)   |              DP/Fenwick Tree              | Pending |
+|   [ABC-407 E](https://atcoder.jp/contests/abc407/tasks/abc407_e)   |               Constructive                | Pending |
+|   [ABC-407 F](https://atcoder.jp/contests/abc407/tasks/abc407_f)   |                   Math                    | Pending |
+|   [ABC-407 G](https://atcoder.jp/contests/abc407/tasks/abc407_g)   |                   Graph                   | Pending |
 | [CF 1017 (Div.4) F](https://codeforces.com/contest/2094/problem/F) |               Constructive                | Pending |
 | [CF 1017 (Div.4) H](https://codeforces.com/contest/2094/problem/H) |     Number theory/Math/Binary search      | Pending |
 
