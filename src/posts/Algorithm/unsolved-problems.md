@@ -25,6 +25,10 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-381 F](https://atcoder.jp/contests/abc381/tasks/abc381_f)   |                Bitmask DP                 | Pending |
+|   [ABC-381 G](https://atcoder.jp/contests/abc381/tasks/abc381_g)   |                   Math                    | Pending |
+|   [ABC-382 F](https://atcoder.jp/contests/abc382/tasks/abc382_f)   |             Lazy Segment Tree             | Pending |
+|   [ABC-382 G](https://atcoder.jp/contests/abc382/tasks/abc382_g)   |                                           | Pending |
 |   [ABC-383 E](https://atcoder.jp/contests/abc383/tasks/abc383_e)   |                    DSU                    | Pending |
 |   [ABC-383 F](https://atcoder.jp/contests/abc383/tasks/abc383_f)   |                    DP                     | Pending |
 |   [ABC-383 G](https://atcoder.jp/contests/abc383/tasks/abc383_g)   |          Divide and Conquer & DP          | Pending |
@@ -65,6 +69,9 @@ article: false
 |   [ABC-406 E](https://atcoder.jp/contests/abc406/tasks/abc406_e)   |                 Digit DP                  | Pending |
 |   [ABC-406 F](https://atcoder.jp/contests/abc406/tasks/abc406_f)   |            DFS & Fenwick Tree             | Pending |
 |   [ABC-406 G](https://atcoder.jp/contests/abc406/tasks/abc406_g)   |              DP/Fenwick Tree              | Pending |
+|   [ABC-407 E](https://atcoder.jp/contests/abc407/tasks/abc407_e)   |               Constructive                | Pending |
+|   [ABC-407 F](https://atcoder.jp/contests/abc407/tasks/abc407_f)   |                   Math                    | Pending |
+|   [ABC-407 G](https://atcoder.jp/contests/abc407/tasks/abc407_g)   |                   Graph                   | Pending |
 | [CF 1017 (Div.4) F](https://codeforces.com/contest/2094/problem/F) |               Constructive                | Pending |
 | [CF 1017 (Div.4) H](https://codeforces.com/contest/2094/problem/H) |     Number theory/Math/Binary search      | Pending |
 
