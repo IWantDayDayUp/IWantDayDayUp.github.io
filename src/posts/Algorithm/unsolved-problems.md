@@ -25,6 +25,24 @@ article: false
 
 |                              Problem                               |                   Type                    | Status  |
 | :----------------------------------------------------------------: | :---------------------------------------: | :-----: |
+|   [ABC-372 F](https://atcoder.jp/contests/abc372/tasks/abc372_f)   |                    DP                     | Pending |
+|   [ABC-372 G](https://atcoder.jp/contests/abc372/tasks/abc372_g)   |           convex hull algorithm           | Pending |
+|   [ABC-373 F](https://atcoder.jp/contests/abc373/tasks/abc373_f)   |                    DP                     | Pending |
+|   [ABC-373 G](https://atcoder.jp/contests/abc373/tasks/abc373_g)   |  Hungarian/minimum cost flow algorithms   | Pending |
+|   [ABC-374 F](https://atcoder.jp/contests/abc374/tasks/abc374_f)   |                    DP                     | Pending |
+|   [ABC-374 G](https://atcoder.jp/contests/abc374/tasks/abc374_g)   |                   Graph                   | Pending |
+|   [ABC-375 F](https://atcoder.jp/contests/abc375/tasks/abc375_f)   |             Shortest Distance             | Pending |
+|   [ABC-375 G](https://atcoder.jp/contests/abc375/tasks/abc375_g)   |             Shortest Distance             | Pending |
+|   [ABC-376 F](https://atcoder.jp/contests/abc376/tasks/abc376_f)   |                    DP                     | Pending |
+|   [ABC-376 G](https://atcoder.jp/contests/abc376/tasks/abc376_g)   |                01 on Tree                 | Pending |
+|   [ABC-377 F](https://atcoder.jp/contests/abc377/tasks/abc377_f)   |                   Math                    | Pending |
+|   [ABC-377 G](https://atcoder.jp/contests/abc377/tasks/abc377_g)   |                    DP                     | Pending |
+|   [ABC-378 F](https://atcoder.jp/contests/abc378/tasks/abc378_f)   |                  DP/LCA                   | Pending |
+|   [ABC-378 G](https://atcoder.jp/contests/abc378/tasks/abc378_g)   |     Robinson–Schensted correspondence     | Pending |
+|   [ABC-379 F](https://atcoder.jp/contests/abc379/tasks/abc379_f)   |               Fenwick Tree                | Pending |
+|   [ABC-379 G](https://atcoder.jp/contests/abc379/tasks/abc379_g)   |                    DP                     | Pending |
+|   [ABC-380 F](https://atcoder.jp/contests/abc380/tasks/abc380_f)   |                Simulation                 | Pending |
+|   [ABC-380 G](https://atcoder.jp/contests/abc380/tasks/abc380_g)   |               Segment Tree                | Pending |
 |   [ABC-381 F](https://atcoder.jp/contests/abc381/tasks/abc381_f)   |                Bitmask DP                 | Pending |
 |   [ABC-381 G](https://atcoder.jp/contests/abc381/tasks/abc381_g)   |                   Math                    | Pending |
 |   [ABC-382 F](https://atcoder.jp/contests/abc382/tasks/abc382_f)   |             Lazy Segment Tree             | Pending |
