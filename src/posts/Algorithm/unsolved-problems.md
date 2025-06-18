@@ -90,8 +90,12 @@ article: false
 |   [ABC-407 E](https://atcoder.jp/contests/abc407/tasks/abc407_e)   |               Constructive                | Pending |
 |   [ABC-407 F](https://atcoder.jp/contests/abc407/tasks/abc407_f)   |                   Math                    | Pending |
 |   [ABC-407 G](https://atcoder.jp/contests/abc407/tasks/abc407_g)   |                   Graph                   | Pending |
+|   [ABC-408 F](https://atcoder.jp/contests/abc408/tasks/abc408_f)   |                    DP                     | Pending |
+|   [ABC-408 G](https://atcoder.jp/contests/abc408/tasks/abc408_g)   |                   Math                    | Pending |
 |   [ABC-409 F](https://atcoder.jp/contests/abc409/tasks/abc409_f)   |                    DSU                    | Pending |
 |   [ABC-409 G](https://atcoder.jp/contests/abc409/tasks/abc409_g)   |          Fast Fourier Transform           | Pending |
+|   [ABC-410 F](https://atcoder.jp/contests/abc410/tasks/abc410_f)   |              Zero-Sum Ranges              | Pending |
+|   [ABC-410 G](https://atcoder.jp/contests/abc410/tasks/abc410_g)   |                    DP                     | Pending |
 | [CF 1017 (Div.4) F](https://codeforces.com/contest/2094/problem/F) |               Constructive                | Pending |
 | [CF 1017 (Div.4) H](https://codeforces.com/contest/2094/problem/H) |     Number theory/Math/Binary search      | Pending |
 
