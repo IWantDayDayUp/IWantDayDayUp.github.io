@@ -96,6 +96,11 @@ article: false
 |   [ABC-409 G](https://atcoder.jp/contests/abc409/tasks/abc409_g)   |          Fast Fourier Transform           | Pending |
 |   [ABC-410 F](https://atcoder.jp/contests/abc410/tasks/abc410_f)   |              Zero-Sum Ranges              | Pending |
 |   [ABC-410 G](https://atcoder.jp/contests/abc410/tasks/abc410_g)   |                    DP                     | Pending |
+|   [ABC-426 F](https://atcoder.jp/contests/abc426/tasks/abc426_f)   |             Lazy Segment Tree             | Pending |
+|   [ABC-426 G](https://atcoder.jp/contests/abc426/tasks/abc426_g)   |          Divide and Conquer + DP          | Pending |
+|   [ABC-427 E](https://atcoder.jp/contests/abc427/tasks/abc427_e)   |                    DP                     | Pending |
+|   [ABC-427 F](https://atcoder.jp/contests/abc427/tasks/abc427_f)   |            Meet-in-the-Middle             | Pending |
+|   [ABC-427 G](https://atcoder.jp/contests/abc427/tasks/abc427_g)   |                                           | Pending |
 | [CF 1017 (Div.4) F](https://codeforces.com/contest/2094/problem/F) |               Constructive                | Pending |
 | [CF 1017 (Div.4) H](https://codeforces.com/contest/2094/problem/H) |     Number theory/Math/Binary search      | Pending |
 
