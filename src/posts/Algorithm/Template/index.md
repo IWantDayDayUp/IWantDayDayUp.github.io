@@ -66,6 +66,7 @@ Each page includes:
 
 - 🚶 [TODO - DFS / BFS](./dfs-bfs.md)
 - 📦 [Union Find / DSU](./DSU.md)
+- 📦 [DSU Jump](./DSUJump.md)
 - 🛣 [TODO - Dijkstra / SPFA](./shortest-path.md)
 - 🧭 [TODO - Topological Sort](./toposort.md)
 - 🧿 [TODO - Lowest Common Ancestor (LCA)](./lca.md)
